@@ -1,7 +1,7 @@
 name: Accent
 favicon: null
-layout_spectrum: 0.5759225117508322
-typography_spectrum: 0.8942402845714241
+layout_spectrum: 0.89741
+typography_spectrum: 0.79792
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.35362577717751265
-  lightness: 0.992115224013105
-  saturation: 0.9466680099721998
-  rhythmicContrast: 0.5084263563621789
+    - '#ffffff'
+    - '#4b2160'
+    - '#ddd5e1'
+    - '#7e608d'
+    - '#a28cad'
+  brandStrength: 0.375
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
