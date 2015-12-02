@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Accent]]></title>
+        <description><![CDATA[Accent]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 16:17:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We have a dedicated team of expert designers, developers and printers ready and waiting to make your ideas come to life, efficiently creating solutions that work for you.</p>]]></description>
+            <link>http://accent.uk.com/</link>
+            <guid isPermaLink="false">8afa3f92-b32d-4092-af87-ce87cedabcf5</guid>
+            <pubDate>Wed, 02 Dec 2015 16:17:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
